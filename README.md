@@ -12,4 +12,7 @@ Un design pattern est une solution reproductible à un problème courant. C’es
 
 Vous pouvez retrouver l'ensemble des fiches documentaires sur le <a href="https://github.com/Darylabrador/espace-documentaires/tree/design-pattern">design pattern ici</a>
 
+
 ### Parlons un peu des frameworks web (php / js)
+
+Dans le cadre du développement des projets GAO (gestion attributions ordinateurs), j'ai dû prendre en main différents frameworks frontend et backend permettant d'avoir une vision pratique des différents outils qui peuvent exister. Vous pouvez retrouver mon ressenti de ses pratiques en allant <a href="https://github.com/Darylabrador/espace-documentaires/blob/Frameworks/README.md"> voir plus d'informations ! </a>
