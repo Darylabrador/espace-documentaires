@@ -1,4 +1,4 @@
-# Sujet de veilles
+# Sujet de veille
 
 Une market place utilisant un framework front js est elle pertinante dans le cadre du SEO ? Moyen à mettre en oeuvre pour rendre notre app SEO-friendly ?
 

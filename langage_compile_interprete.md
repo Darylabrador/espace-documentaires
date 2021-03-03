@@ -1,4 +1,4 @@
-# Sujet de veilles
+# Sujet de veille
 
 Plutot langage compilé ou interprété ? (+ exemple de langages)
 

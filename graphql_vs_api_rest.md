@@ -1,4 +1,4 @@
-# Sujet de veilles
+# Sujet de veille
 
 GraphQL vs API REST 
 

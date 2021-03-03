@@ -1,4 +1,4 @@
-# Sujet de veilles
+# Sujet de veille
 
 Application mobile hybride ou native ? qui pour quoi ? quoi pour qui ? avantage ? inconvénient ?
 
